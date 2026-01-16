@@ -1,0 +1,9 @@
+[submodule "sc3-camera-connector"]
+	path = sc3-camera-connector
+	url = git@github.com:finleywood/sc3-camera-connector.git
+[submodule "SmartCart-Middleware"]
+	path = SmartCart-Middleware
+	url = git@github.com:Chowdhy/SmartCart-Middleware.git
+[submodule "smartcart-v3"]
+	path = smartcart-v3
+	url = git@github.com:davidafshepherd/smartcart-v3.git
